@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+/* header */
+header {
+text align: center;
+margin-bottom:2rem;
+}
 /* Body and Font Styling */
 body {
   font-family: 'Comic Sans MS', sans-serif;
