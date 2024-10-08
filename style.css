@@ -25,6 +25,10 @@ body {
   gap: 1rem;
 }
 
+.image img{
+  width: 250;
+height: 250;
+}
 
 /* Container */
 .container {
