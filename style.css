@@ -18,7 +18,7 @@ header h1 {
 }
 
 h2{
-  text-align: center;
+  text-align: left;
   padding: 1em;
   
 }
@@ -66,13 +66,13 @@ main {
 
 .photo{
   display:grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 1rem;
 }
 
 .image img{
-  width: 250;
-height: 250;
+  width: 150;
+height: 150;
 }
 
 /* Container */
