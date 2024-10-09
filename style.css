@@ -18,7 +18,7 @@ header h1 {
 }
 
 .Pho{
-  display:flex;
+  display:grid;
   flex-direction: row;
   gap: 1rem;
 }
