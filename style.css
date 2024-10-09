@@ -50,6 +50,10 @@ body {
   overflow-x: hidden;
 }
 
+.section{
+  margin-bottom: 40px;
+}
+
 .photo{
   display:grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
