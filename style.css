@@ -17,7 +17,10 @@ header h1 {
     margin-bottom: 10px;
 }
 
-
+div Pho{
+  display:flex;
+  flex-direction: row;
+}
 h2{
   text-align: left;
   padding: 1em;
