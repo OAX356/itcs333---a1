@@ -62,6 +62,10 @@ body {
   overflow-x: hidden;
 }
 
+h2{
+  margin-bottom: auto;
+}
+
 main {
   padding: 20px;
 }
