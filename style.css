@@ -78,9 +78,12 @@ main {
   gap: 1rem;
 }
 
+
 .image img{
   width: 150;
 height: 150;
+position: absolute;
+bottom: 20px;
 }
 
 /* Container */
