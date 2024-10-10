@@ -80,9 +80,10 @@ main {
 
 
 .image img{
+  
   width: 250;
 height: 250;
-bottom: 20px;
+
 }
 
 /* Container */
