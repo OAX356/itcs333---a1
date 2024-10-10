@@ -72,6 +72,10 @@ main {
   margin-bottom: 50px;
 }
 
+h2{
+  padding-bottom: 30px;
+}
+
 .photo{
   display:grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
