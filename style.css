@@ -5,6 +5,24 @@
   box-sizing: border-box;
 }
 
+
+/* Body and Font Styling */
+body {
+  font-family: 'Comic Sans MS', sans-serif;
+  background-color: #fffde9;
+  color: #333;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
 /* header */
 header {
   background-color: #fddb3a;
@@ -16,18 +34,7 @@ header h1 {
   font-size: 3rem;
   color: #333;
   margin-bottom: 10px;
-}
-
-.row {
-  display: flex;
-}
-
-.cloumn {
-  flex: 33.33%;
-  padding: 5px;
-}
-  
-
+} 
 
 
 /* Navigation Styling */
@@ -53,16 +60,6 @@ nav ul li a {
 nav ul li a:hover {
     background-color: #ff5722;
 }
-
-/* Body and Font Styling */
-body {
-  font-family: 'Comic Sans MS', sans-serif;
-  background-color: #fffde9;
-  color: #333;
-  line-height: 1.6;
-  overflow-x: hidden;
-}
-
 
 
 main {
@@ -113,13 +110,6 @@ th {
 
 td {
   background-color: #fff8d1;
-}
-
-/* Container */
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
 }
 
 /* Footer Styling */
