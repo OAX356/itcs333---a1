@@ -39,6 +39,10 @@ header h1 {
   margin-bottom: 10px;
 } 
 
+header h1:hover {
+  color:#ff5722;
+  font-style: italic;
+}
 
 /* Navigation Styling */
 nav ul {
