@@ -127,3 +127,37 @@ footer p {
 footer a:hover {
   color:#ff5722;
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+
+  header h1 {
+    font-size: 2.5rem;
+  }
+
+  nav ul {
+    flex-direction: column;
+    margin-top: 10px;
+  }
+
+  nav ul li {
+    margin: 10px 0;
+  }
+
+  nav ul li a {
+    padding: 10px 30px;
+  }
+
+  section h2 {
+    font-size: 2rem;
+  }
+
+  table th, table td {
+    font-size: 1rem;
+  }
+
+  .gallery {
+    grid-template-columns: 1fr;
+  }
+
+}
