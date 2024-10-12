@@ -114,11 +114,13 @@ table {
 th, td {
   padding: 10px;
   border: 1px solid #ddd;
-  text-align: left;
+  text-align: center;
 }
 
 th {
   background-color: #ff9800;
+  color: white;
+  font-weight: bold;
 }
 
 td {
